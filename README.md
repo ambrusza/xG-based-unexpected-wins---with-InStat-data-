@@ -1,5 +1,5 @@
-# xG based Unexpected Wins (with_InStatdata)
-### How common is it for a team with a lower xG value to win a match in Hungarian NB1?
+# xG based Unexpected Wins (with_InStat data)
+#### How common is it for a team with a lower xG value to win a match in Hungarian NB1?
 
 
 
