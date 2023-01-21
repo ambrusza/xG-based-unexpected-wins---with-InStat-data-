@@ -1,8 +1,6 @@
 # xG based Unexpected Wins (with_InStat data)
 
-![Visitor Count](https://profile-counter.glitch.me/{ambrusza}/count.svg)
-
-![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=ambrusza&style=for-the-badge)
 
 #### How common is it for a team with a lower xG value to win a match in Hungarian NB1?
 
