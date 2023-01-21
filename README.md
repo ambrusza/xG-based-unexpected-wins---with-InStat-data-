@@ -13,6 +13,9 @@ how common is it for a team with a lower xG value to win a match in Hungarian NB
 
 Process:
 
+prerequisit:
+what is xG? -> link: https://twitter.com/ambrusz_a/status/1602384735333933057
+
 1. **Data:**
    We need data (we obtain them from InStat)
 
