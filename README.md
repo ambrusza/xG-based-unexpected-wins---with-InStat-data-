@@ -2,6 +2,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{ambrusza}/count.svg)
 
+![](https://komarev.com/ghpvc/?username=ambrusza)
 
 #### How common is it for a team with a lower xG value to win a match in Hungarian NB1?
 
