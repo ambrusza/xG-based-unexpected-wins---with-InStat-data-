@@ -27,6 +27,22 @@ Process:
 2. scrape:
 
    - here for scraping we have to write an access password code
+     ``` sh
+     def site_login():
+       driver.get ('https://football.instatscout.com/login')
+       time.sleep(3)
+       try:
+           user_name = driver.find_element_by_name("email")
+           user_name.send_keys("ambruszarpad@gmail.com")
+       except NoSuchElementException:
+           print("exception handled")
+       password = driver.find_element_by_name("pass")
+       submit = driver.find_element_by_name("commit")
+
+       password.send_keys("77f52")
+       submit.click()
+      ```
+
    - we have to collect the data we need, then organize and clean it
 
 3. Install NPM packages
