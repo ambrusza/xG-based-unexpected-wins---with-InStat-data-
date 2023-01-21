@@ -47,7 +47,7 @@ what is xG? -> link: https://twitter.com/ambrusz_a/status/1602384735333933057
 
 3. **Data sorting:**
    
-   here, for further analysis, we distinguish between home and away teams, as well as collect detailed data of the matches (shots/xG)
+   here, for further analysis, we distinguish between home and away teams, as well as collect detailed data of the matches (shots/xG) etc.
    
    
 4. **Analysis and plot:**
