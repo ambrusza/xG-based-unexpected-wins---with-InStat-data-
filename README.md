@@ -62,10 +62,12 @@ This is where we want to go:
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/ambrusz_a) - email@email_client.com
+Ambrusz Árpád - 
 
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<div id="badges">
+  <a href="https://twitter.com/ambrusz_a">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 
