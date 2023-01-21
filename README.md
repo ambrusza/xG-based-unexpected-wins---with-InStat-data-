@@ -21,10 +21,10 @@ how common is it for a team with a lower xG value to win a match in NB1?
 
 Process:
 
-1. We need data (we obtain them from InStat)
+1. **Data:**
+   We need data (we obtain them from InStat)
 
-
-2. scrape:
+2. **Scrape:**
 
    - here for scraping we have to write an access password code (here you should get by with your own e-mail and password)
      ``` sh
@@ -50,15 +50,14 @@ Process:
    - we have to collect the data we need, then organize and clean it
    - we are also interested in the number of xGPoints that can be obtained based on xG - that's why we write a function for this as well
 
-3. **data sorting**
+3. **Data sorting:**
    
    here, for further analysis, we distinguish between home and away teams, as well as collect detailed data of the matches (shots/xG)
    
    
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+4. **Analysis and plot:**
+
+   we make a plot and analyze the data
 
 
 This is where we want to go:
