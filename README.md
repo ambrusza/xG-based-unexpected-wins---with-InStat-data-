@@ -9,7 +9,7 @@
 
 ### Goal, or what are we interested in?
 
-how common is it for a team with a lower xG value to win a match in NB1?
+how common is it for a team with a lower xG value to win a match in Hungarian NB1?
 
 Process:
 
