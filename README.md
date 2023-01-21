@@ -62,7 +62,7 @@ This is where we want to go:
 <!-- CONTACT -->
 ## Contact
 
-Ambrusz Árpád - 
+Ambrusz Árpád - email: ambruszarpad@gmail.com
 
 <div id="badges">
   <a href="https://twitter.com/ambrusz_a">
