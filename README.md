@@ -66,6 +66,7 @@ This is where we want to go:
 ## Contact
 
 Ambrusz Árpád 
+
 email: ambruszarpad@gmail.com
 
 <div id="badges">
