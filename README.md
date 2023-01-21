@@ -65,7 +65,8 @@ This is where we want to go:
 <!-- CONTACT -->
 ## Contact
 
-Ambrusz Árpád - email: ambruszarpad@gmail.com
+Ambrusz Árpád 
+email: ambruszarpad@gmail.com
 
 <div id="badges">
   <a href="https://twitter.com/ambrusz_a">
