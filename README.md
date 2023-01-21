@@ -14,6 +14,13 @@ How common is it for a team with a lower xG value to win a match in Hungarian NB
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+
+***Goal, or what are we interested in?
+
+how common is it for a team with a lower xG value to win a match in NB1?
+
+This is where we want to go:
+
 ![Képernyőfotó 2023-01-21 - 19 24 54](https://user-images.githubusercontent.com/66861232/213881591-673d1390-591f-46f9-a606-0932a0c695b0.png)
 
 
