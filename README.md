@@ -65,7 +65,7 @@ This is where we want to go:
 <!-- CONTACT -->
 ## Contact
 
-Ambrusz Árpád 
+Ambrusz Árpád (Hungary)
 
 email: ambruszarpad@gmail.com
 
