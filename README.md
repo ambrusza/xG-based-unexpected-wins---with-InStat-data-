@@ -19,6 +19,26 @@ How common is it for a team with a lower xG value to win a match in Hungarian NB
 
 how common is it for a team with a lower xG value to win a match in NB1?
 
+Process:
+
+1. We need data (we obtain them from InStat)
+
+
+2. scrape:
+
+   - here for scraping we have to write an access password code
+   - we have to collect the data we need, then organize and clean it
+
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Enter your API in `config.js`
+   ```js
+   const API_KEY = 'ENTER YOUR API';
+   ```
+
+
 This is where we want to go:
 
 ![Képernyőfotó 2023-01-21 - 19 24 54](https://user-images.githubusercontent.com/66861232/213881591-673d1390-591f-46f9-a606-0932a0c695b0.png)
