@@ -50,9 +50,9 @@ Process:
    - we have to collect the data we need, then organize and clean it
    - we are also interested in the number of xGPoints that can be obtained based on xG - that's why we write a function for this as well
 
-3. **data sorting
+3. **data sorting**
    
-   here, for further analysis, we distinguish between home and away teams, and also collect match data (shots/xG)
+   here, for further analysis, we distinguish between home and away teams, as well as collect detailed data of the matches (shots/xG)
    
    
 4. Enter your API in `config.js`
