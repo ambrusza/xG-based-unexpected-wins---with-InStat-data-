@@ -66,6 +66,11 @@ This is where we want to go:
 ![Képernyőfotó 2023-01-21 - 19 24 54](https://user-images.githubusercontent.com/66861232/213881591-673d1390-591f-46f9-a606-0932a0c695b0.png)
 
 
+**result** 
+
+The team with the least xG won 22 of 94 games (unexpected win)
+and of these 22 matches, 16 were matches where the winning team with less xG scored the first goal
+
 
 <!-- CONTACT -->
 ## Contact
