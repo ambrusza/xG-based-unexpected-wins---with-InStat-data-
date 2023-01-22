@@ -68,8 +68,8 @@ This is where we want to go:
 
 **result** 
 
-The team with the least xG won 22 of 94 games (unexpected win)
-and of these 22 matches, 16 were matches where the winning team with less xG scored the first goal
+The team with the least xG won 22 of 94 games (~23% unexpected win)
+and of these 22 matches, 16 were (~72%) matches where the winning team with less xG scored the first goal
 
 
 <!-- CONTACT -->
