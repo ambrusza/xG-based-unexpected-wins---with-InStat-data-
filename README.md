@@ -19,6 +19,8 @@ Process:
 prerequisit:
 what is xG? -> link: https://twitter.com/ambrusz_a/status/1602384735333933057
 
+Note: we annotated the steps performed in the file
+
 1. **Data:**
    We need data (we obtain them from InStat)
 
